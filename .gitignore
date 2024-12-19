@@ -1,0 +1,9 @@
+
+data/*
+
+model/__pycache__
+preprocess/__pycache__
+statistic.py
+statistic.ipynb
+test.py
+.vscode
